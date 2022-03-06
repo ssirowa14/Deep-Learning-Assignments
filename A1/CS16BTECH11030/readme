@@ -1,0 +1,7 @@
+1) Please read the report before going through the code. Python3 was used for this assignment.
+
+2) Directory Structure
+	output/: The output images named accordingly.
+	solution_123.ipynb: Solutions of first 3 questions
+	4.py: Solution to 4th question
+	Report.pdf: Report of the assignment. Contains answer of the 5th question and explanations corresponding to first 4 questions.
